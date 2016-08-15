@@ -4,7 +4,7 @@ html, body { height: 100% }
 
 body
 {
-  background: url(http://www.freebiesgallery.com/wp-content/uploads/2014/02/blurred-background-31.jpg);
+  background: url(http://wallpoper.com/images/00/30/34/11/gaussian-blur_00303411.jpg);
   background-size: 100% 100%;
 }
 
@@ -33,7 +33,7 @@ body
   border-radius: 4px 4px 0 0;
 }
 
-.widget > .photo
+.widget > .profilePic
 {
   position: absolute;
   top: 85px;
