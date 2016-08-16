@@ -7,7 +7,7 @@ $(function(){
 
   $.ajax({
     url: apiUrl,
-    dataType: 'jsonp'
+    dataType: 'json'
   }).done(function(data){
     //set attributes
     $profilePic.attr("src", data.profilePic);
